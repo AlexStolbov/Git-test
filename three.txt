@@ -1,7 +1,2 @@
 1
 2
-<<<<<<< HEAD
-change on master
-=======
-on branch testing
->>>>>>> testing
